@@ -76,7 +76,7 @@
   
     display: none;
   }
-  /* SLIDER */
+  /* SLIDER 
   .giro{
     margin: 0px;
     padding: 0PX;
@@ -115,7 +115,7 @@
 
     75% {margin-left:-300%}
     100% {margin-left:-300%}
-  }
+  }*/
   
   /* MOBILE */
   @media (max-width: 768px) {
