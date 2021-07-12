@@ -76,7 +76,7 @@
   
     display: none;
   }
-  /* SLIDER 
+  /* SLIDER */
   .giro{
     margin: 0px;
     padding: 0PX;
@@ -90,7 +90,7 @@
   .slider ul{
     padding:0 ;
     display: flex;
-    width: 300%;
+    width: 400%;
     animation: slider 20s infinite alternate;
     animation-timing-function: linear;
 
@@ -99,7 +99,7 @@
     width: 100%;
     list-style: none;
   }
-  .slider img{
+  .slider li img{
     width: 100%;
     padding: auto;
   }
@@ -115,7 +115,7 @@
 
     75% {margin-left:-300%}
     100% {margin-left:-300%}
-  }*/
+  }
   
   /* MOBILE */
   @media (max-width: 768px) {
