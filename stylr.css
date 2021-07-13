@@ -231,4 +231,5 @@ input, textarea {
   font-size: 8pt;
   text-align: right;
   color: grey;
+  display: flex;
 }
