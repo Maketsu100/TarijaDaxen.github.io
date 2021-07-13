@@ -96,7 +96,7 @@
 
   }
   .slider li{
-    width: 100%;
+    width: 80%;
     list-style: none;
   }
   .slider li img{
@@ -120,7 +120,7 @@
   /* MOBILE */
   @media (max-width: 768px) {
     body {
-      padding-top: 70px;
+      padding-top: 60px;
     }
   
     .header {
@@ -172,7 +172,10 @@
       outline: none;
     }
   }
-  
+  .giro{
+    margin: auto;
+    padding: auto;
+  }
   /*aqui enpiza el formulario*/
 form {
   text-align: center;
